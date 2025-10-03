@@ -1,0 +1,4 @@
+/home/nameblank00/Desktop/Projects/2_NJL_Diquark/CMakeFiles/libTMQGP.dir
+/home/nameblank00/Desktop/Projects/2_NJL_Diquark/CMakeFiles/TMQGP.dir
+/home/nameblank00/Desktop/Projects/2_NJL_Diquark/CMakeFiles/edit_cache.dir
+/home/nameblank00/Desktop/Projects/2_NJL_Diquark/CMakeFiles/rebuild_cache.dir

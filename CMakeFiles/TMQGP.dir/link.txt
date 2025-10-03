@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -fPIC -g -Ofast -std=c++2a  -shared -Wl,-soname,_TMQGP.so -o lib/_TMQGP.so CMakeFiles/TMQGP.dir/wrap.cpp.o   -L/usr/lib/levmar  -Wl,-rpath,/usr/lib/levmar:/home/nameblank00/Desktop/Projects/2_NJL_Diquark/lib -lgsl -lgslcblas -llapack -lpython3.12 lib/liblibTMQGP.so -lgsl -lgslcblas -llapack -lpython3.12 
